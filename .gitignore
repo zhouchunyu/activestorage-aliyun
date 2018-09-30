@@ -8,3 +8,4 @@ test/dummy/storage/
 test/dummy/db/*.sqlite3
 test/dummy/tmp/
 .idea/
+activestorage-aliyun-oss-*

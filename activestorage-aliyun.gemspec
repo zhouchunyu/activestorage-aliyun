@@ -4,14 +4,14 @@ require File.expand_path('lib/active_storage_aliyun/version')
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "activestorage-aliyun"
+  s.name        = "activestorage-aliyun-oss"
   s.version     = ActiveStorageAliyun::VERSION
   s.date        = '2018-02-01'
   s.homepage    = 'https://github.com/huacnlee/activestorage-aliyun'
   s.summary     = "Wraps the Aliyun OSS as an Active Storage service"
   s.description = "Wraps the Aliyun OSS as an Active Storage service."
-  s.authors     = ["Jason Lee"]
-  s.email       = 'huacnlee@gmail.com'
+  s.authors     = ["Zhou"]
+  s.email       = 'zhouchunyu20xx@163.com'
   s.files       = Dir['{app,config,db,lib}/**/*', 'LICENSE', 'Rakefile', 'README.md', 'CHANGELOG.md']
   s.license     = 'MIT'
 
